@@ -9,6 +9,11 @@ Produces QR codes in many formats.
 Installation:
 Lets use Python and the library Segno, to build our QR Code. 
 
+You can also output a qr code to the CLI:
+    type $ segno 'yourURLlink.com' 
+    press enter 
+    the output should be generated in the CLI 
+
 
 Usage:
 Can be used to create QR Codes to provide easy access to online information 
