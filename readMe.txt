@@ -12,7 +12,7 @@ Lets use Python and the library Segno, to build our QR Code.
 You can also output a qr code to the CLI:
     type $ segno 'yourURLlink.com' 
     press enter 
-    the output should be generated in the CLI 
+    the output will save as a png file within that current directory 
 
 
 Usage:
