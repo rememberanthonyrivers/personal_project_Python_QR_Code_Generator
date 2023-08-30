@@ -1,6 +1,5 @@
-Title and Description:
+QR Code Generator - Python Project
 
-QR Code Generator 
 
 Lets build a quick response code and stylize it to our needs.
 Produces QR codes in many formats.
